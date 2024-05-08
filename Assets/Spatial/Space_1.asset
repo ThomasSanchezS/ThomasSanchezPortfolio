@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_1
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: 66345d53bf893378c2b5c37b
+  packageName: Portfolio Thomas Sanchez
+  thumbnail: {fileID: 2800000, guid: 2361fcc94fb6db844a87fdd57a21c6f0, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: d1ra6dgyxy1sg507fytcw
+  scene: {fileID: 102900000, guid: 1f4b7f12888618249b7c3b8dbebb2b77, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 40a76bd38296b6843be9e32a583a0b88,
+    type: 3}
+  embeddedPackageAssets: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 16
